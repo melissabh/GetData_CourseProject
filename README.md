@@ -1,6 +1,6 @@
 # README
 
-# How to generate the run_analysis.txt file using the run_analysis.R function
+# How to generate the run_analysis_output.txt file using the run_analysis.R function
 
 - The run_analysis() function is contained in the run_analysis.R file
 
@@ -8,7 +8,7 @@
 contains the **./UCI HAR Dataset** subdirectory (and all the original files
 and subirectories that come in the original dataset from SmartLabs)
 
-- Running the run_analysis() function will create the run_analysis.txt
+- Running the run_analysis() function will create the run_analysis_output.txt
 file in your current working directory
 
 
