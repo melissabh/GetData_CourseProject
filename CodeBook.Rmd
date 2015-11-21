@@ -19,9 +19,8 @@ output:
   named by the column heading. So, please keep in mind that if a column name contains the substring
   "Mean" that you are looking at an average of those means. Also, if you're looking at a column name 
   that constains the substring "StdDev" you are looking at an *average* of the original standard 
-  deviations measurement of that same name.
-  
-  
+  deviations measurement of that same name. Measurements are in units of Hz.
+
 ## How the run_analysis_output.txt file was generated:
 
 The dataset in run_analysis_output.txt file represents a final product of a synthesis and summarization of raw
